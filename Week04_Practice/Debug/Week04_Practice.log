@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Week04_Practice\Source.cpp(442,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Week04_Practice\Source.cpp(597,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Week04_Practice\Source.cpp(603,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Week04_Practice\Source.cpp(614,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Week04_Practice\Source.cpp(710,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Week04_Practice\Source.cpp(714,20): warning C4018: '<': signed/unsigned mismatch
+  Week04_Practice.vcxproj -> C:\Users\Asus\Desktop\Week10(Done)\Week10_Framework\Debug\Week10_Framework.exe

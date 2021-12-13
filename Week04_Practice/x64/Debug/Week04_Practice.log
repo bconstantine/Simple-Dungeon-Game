@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C++\FinalDungeonCopy\Week04_Practice\Source.cpp(402,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source1.cpp
+  Generating Code...
+  Week04_Practice.vcxproj -> D:\C++\FinalDungeonCopy\x64\Debug\Week10_Framework.exe

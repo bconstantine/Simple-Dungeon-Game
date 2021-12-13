@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\C++\Week13(Done)\Week04_Practice\Source.cpp(479,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 350 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Week04_Practice.vcxproj -> D:\C++\Week13(Done)\x64\Release\Week10_Framework.exe
